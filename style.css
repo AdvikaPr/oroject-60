@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, pink, aquamarine, skyblue, pink)
+}
+
+img {
+    width: 15%;
+    border-radius: 20%;
+}
+
+#h11 {
+    text-shadow: 2px 2px violet;
+    color: pink;
+}
+
+h1 {
+    text-shadow: 2px 2px aquamarine;
+    color: lightpink;
+}
+
+#Display Hobby {
+    padding: 20px font-size:18;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.links:hover {
+    background-color: deeppink;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
