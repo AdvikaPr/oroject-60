@@ -40,3 +40,7 @@ h1 {
 img:hover {
     transform: scale(0.9);
 }
+
+.links{
+    float: left;
+}
